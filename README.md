@@ -6,16 +6,16 @@ use command "**npm star**t" in directory => reactnd-contacts-start
 
 use command "**node server.js**" in directory => reactnd-contacts-server
 
-**React
+*React
 
-**PropTypes
+*PropTypes
 
-**React-Router
+*React-Router
 
-**Component controller
+*Component controller
 
-**State, Props
+*State, Props
 
-**LifeCicles (DidMount, render, etc...)
+*LifeCicles (DidMount, render, etc...)
 
-**Others
+*Others
